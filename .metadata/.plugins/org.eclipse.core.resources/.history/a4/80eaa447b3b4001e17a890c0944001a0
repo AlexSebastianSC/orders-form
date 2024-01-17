@@ -1,0 +1,5 @@
+package com.pruebafractal.springboot.backend.apirest.models.entity;
+
+public class Order {
+
+}

@@ -1,0 +1,5 @@
+package com.pruebafractal.springboot.backend.apirest.repositories;
+
+public interface ItemOrderRepository {
+
+}
